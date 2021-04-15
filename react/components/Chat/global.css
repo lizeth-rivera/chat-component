@@ -1,5 +1,29 @@
 .float{
     position: fixed;
-    bottom: 70px;
-    right: 40px;
+    top: 90% !important;
+    right: 38px;
+}
+.img-btn{
+    content: "";
+    cursor: pointer;
+    background-image: url(https://siman.vtexassets.com/arquivos/chat-bubb.png);
+    background-repeat: no-repeat;
+    background-size: 54px;
+    width: 54px;
+    height: 54px;
+    display: block;
+}
+@media screen and (max-width: 1025px) {
+    .float{
+    display: flex;
+    justify-content: center;
+    position: inherit;
+    width: 54px;
+    }
+    .img-btn{
+    background-size: 30px;
+    width: 30px;
+    height: 30px;
+    background-image: url(https://siman.vtexassets.com/arquivos/chat-image.png);
+    }
 }
