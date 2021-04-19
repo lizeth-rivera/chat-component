@@ -1,6 +1,6 @@
 {
-  "vendor": "simanqa",
-  "name": "chat-slvqa",
+  "vendor": "siman",
+  "name": "chat-slv",
   "version": "0.0.2",
   "builders": {
     "store": "0.x",
