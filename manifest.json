@@ -1,6 +1,6 @@
 {
-  "vendor": "siman",
-  "name": "chat-slv",
+  "vendor": "simancrc",
+  "name": "chat-crc",
   "version": "0.0.2",
   "builders": {
     "store": "0.x",
