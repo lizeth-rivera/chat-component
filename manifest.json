@@ -1,6 +1,6 @@
 {
-  "vendor": "siman",
-  "name": "chat-slv",
+  "vendor": "simannicaragua",
+  "name": "chat-ni",
   "version": "0.0.2",
   "builders": {
     "store": "0.x",
