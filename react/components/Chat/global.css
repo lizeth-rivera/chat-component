@@ -1,6 +1,6 @@
 .float{
     position: fixed;
-    top: 90% !important;
+    top: 90.7% !important;
     right: 38px;
 }
 .img-btn{
@@ -13,7 +13,7 @@
     height: 54px;
     display: block;
 }
-/* @media screen and (max-width: 1025px) {
+@media screen and (max-width: 1025px) {
     .float{
     display: flex;
     justify-content: center;
@@ -21,9 +21,9 @@
     width: 54px;
     }
     .img-btn{
-    background-size: 30px;
-    width: 30px;
-    height: 30px;
+    background-size: 28px;
+    width: 28px;
+    height: 28px;
     background-image: url(https://siman.vtexassets.com/arquivos/chat-image.png);
     }
-} */
+}
