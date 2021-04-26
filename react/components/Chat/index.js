@@ -6,7 +6,7 @@ const Chat = () => {
   const [bubble, setBubble] = useState(true);
 
   const handleClick = (e) => {
-    MyG2C.API.chatAsk("Solicitud de ayuda.", 10);
+    MyG2C.API.chatAsk("Gracias por contactarte al chat de Almacenes Siman con gusto te podemos ayudar, ¿Con quién tenemos el gusto?", 10);
     /* setBubble(!bubble);
     let image = e.target.src
     if (image.includes('bubb')) {
